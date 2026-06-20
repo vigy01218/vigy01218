@@ -1,6 +1,7 @@
 # About Me:
 
 Student | Intern
+
 I'm a Computer Science student interested in AI, Machine Learning, and Generative AI. I enjoy building practical applications and learning by working on projects.
 
 Currently exploring:
