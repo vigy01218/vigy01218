@@ -1,27 +1,22 @@
 # About Me:
 
-Student | AI & ML Enthusiast
+Student | Intern
+I'm a Computer Science student interested in AI, Machine Learning, and Generative AI. I enjoy building practical applications and learning by working on projects.
 
-I'm interested in building practical AI systems — from RAG pipelines to end-to-end ML applications — and learning by shipping projects, internships, and experiments.
+Currently exploring:
+- Machine Learning
+- LLMs and RAG systems
+- Python, SQL, and APIs
+- AI-powered applications
 
-I'm working on:
+Currently interning at Experion Technologies.
 
-🤖 Machine Learning & Deep Learning fundamentals
+Latest project: A RAG chatbot for interacting with uploaded PDF documents.
+# Connect with me:
 
-🧠 Generative AI — RAG pipelines, LLM integrations, vector search
-
-🐍 Python, Git, APIs, and systems thinking
-
-💼 Currently interning at **Experion Technologies**
-
-🚀 Latest build: a **RAG Chatbot** that lets users upload PDFs and chat with their content
-
-# Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_handle)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your_id)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighnesh-anoop-352844379/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32858831/vighnesh-anoop)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighneshanoop2007@gmail.com)
 
 # Tech Stack:
 
